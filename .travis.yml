@@ -1,0 +1,4 @@
+language: ruby
+rvm:
+    - 2.1.2
+repo_token: QoIAMNyjZ823OxcC1FrogkomqwWqPPtPX
