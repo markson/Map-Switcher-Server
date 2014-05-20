@@ -1,4 +1,5 @@
 require 'test/unit'
+require 'coveralls'
 Coveralls.wear!
 
 class MyTest < Test::Unit::TestCase
