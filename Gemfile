@@ -11,5 +11,6 @@ end
 
 group :test do
 	gem 'rake'
+	gem 'rack-test', require: "rack/test"
 	gem 'codeclimate-test-reporter', require: false
 end
